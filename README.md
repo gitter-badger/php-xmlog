@@ -1,5 +1,7 @@
 # php-xmlog
 
+[![Join the chat at https://gitter.im/zguillez/php-xmlog](https://badges.gitter.im/zguillez/php-xmlog.svg)](https://gitter.im/zguillez/php-xmlog?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Dependency Status](https://gemnasium.com/zguillez/php-xmlog.svg)](https://gemnasium.com/zguillez/php-xmlog)
 ![](https://reposs.herokuapp.com/?path=zguillez/php-xmlog)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
